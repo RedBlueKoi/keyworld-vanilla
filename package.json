@@ -10,6 +10,7 @@
   "devDependencies": {
     "@mdi/font": "^6.9.96",
     "autoprefixer": "^10.4.7",
+    "axios": "^0.27.2",
     "eslint": "^8.19.0",
     "eslint-config-prettier": "^8.5.0",
     "postcss": "^8.4.14",
