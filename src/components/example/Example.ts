@@ -10,7 +10,7 @@ const classes = [
 ]
 
 const ExampleComponent = `<div class="${classes.join(" ")}">
-    <div>Hello Vite!</div>
+    <div>Hello Vanilla!</div>
     <div>This is the example component to give a design hint for the rest of the website</div>
     <div class="flex justify-end items-center" id="example-footer"></div>
   </div>`
